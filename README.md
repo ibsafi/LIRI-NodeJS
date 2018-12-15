@@ -5,7 +5,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 This nodeJS script searches for a "Song", "Band", or "Movie" by choosing one of three options that prompted in the command line and shows all related results. Follow these tips for an appropriate usage:  
   1. Before running make sure all the `dependencies` are installed, which are `moment`, `axios`, `Node-Spotify-API`.
   2. Find a valid `apikey` for all of `OMDB API`, `Bands In Town API`, and `Node-Spotify-API` where they're an essential portion of the process.  
-  3. After having all things set, run the `cli.js` file by writing `node cli.js` in the terminal's command line.
+  3. After having all things set, run the `app.js` file by writing `node app.js` in the terminal's command line.
   4. Then the program will ask you to choose one type of your search, "Song", "Movie", or "Band".
   5. After you choosed your search type, the program will prompt you to type the `thing` that you're looking for.
   6. Then the program will present all information you're looking for in lines.
