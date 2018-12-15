@@ -13,4 +13,4 @@ This nodeJS script searches for a "Song", "Band", or "Movie" by choosing one of 
   
 See the Figure below to see an excample of using the program.
 
-![CLI App Example](./Example.mp4)
+![CLI App Example](./Example.png)
