@@ -4,7 +4,7 @@
 In this application, user'll experience LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI uses the Command Line Interface that takes in parameters from user and gives back data.
 
 ## Project Dependencies:
-This app requires this node package: `inquirer`, `moment`, `axios`(for `OMDB API`, `Bands In Town API`), `Node-Spotify-API`.
+This app requires this node package: `inquirer`, `moment`, `axios` (required for `OMDB API`, `Bands In Town API`), `Node-Spotify-API`.
 
 ## Basic Usage:
 * The app runs by navigating into the directory of the app folder, and then type the command  `node app.js` in the command line terminal.
