@@ -11,8 +11,7 @@ This app requires this node package: `inquirer`, `moment`, `axios`(for `OMDB API
 
 * This NodeJS script searches for a "Song", "Band", or "Movie" by choosing one of three
 
-### Usage of the Script
-This nodeJS script searches for a "Song", "Band", or "Movie" by choosing one of three options that prompted in the command line and shows all related results. Follow these tips for an appropriate usage:
+* This nodeJS script searches for a "Song", "Band", or "Movie" by choosing one of three options that prompted in the command line and shows all related results. Follow these tips for an appropriate usage:
 
   1. Before running make sure all the `dependencies` are installed, which are `moment`, `axios`, `Node-Spotify-API`, and `inquirer`.
 
