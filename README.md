@@ -28,5 +28,5 @@ This nodeJS script searches for a "Song", "Band", or "Movie" by choosing one of 
 
   7. Eventually, the program will ask if you want to make another search.
   
-See the Figure below to see an example of using the program.
+* See the Figure below to see an example of using the program.
 ![LIRI-App Example](./images/example.png)
